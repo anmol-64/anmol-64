@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @anmol-64
-- 👀 I’m interested in App development
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding
 - 📫 How to reach me : anmolpantha53@gmail.com
 
 
