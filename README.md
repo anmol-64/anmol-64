@@ -1,5 +1,5 @@
 #  About Me:
-I’m currently working on building an app.<br>I’m currently learning Flutter.<br>I am a CS student pursuing my degree on software.<br>I feel intrested towards coding.
+I’m currently learning Js.<br>I am a CS student pursuing my degree on software.<br>I feel intrested towards coding.
 
 
 ## 🌐 Socials:
