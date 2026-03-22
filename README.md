@@ -1,5 +1,5 @@
 #  About Me:
-I’m currently learning Js.<br>I am a CS student pursuing my degree on software.<br>I feel intrested towards coding.
+I’m a fronend developer with skills on JS,React Js and Python.<br>I am a CS student pursuing my degree on software
 
 
 ## 🌐 Socials:
