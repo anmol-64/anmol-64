@@ -6,7 +6,7 @@ I’m a fronend developer with skills on JS,React Js and Python.<br>I am a CS st
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anmolpantha53@gmail.com) 
 
 # 💻 Tech Stack:
-Python ,Javascript,  React JS , HTML,CSS.
+FastAPI ,Python ,Javascript,  React JS , HTML,CSS.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anmol-64&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=anmol-64&theme=dark&hide_border=false)<br/>
